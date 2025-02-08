@@ -1,4 +1,4 @@
-#include "snake2.h"
+#include "snake.h"
 #include<bits/stdc++.h>
 using namespace std;
 #define LENGTH 30

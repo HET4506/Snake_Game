@@ -1,4 +1,4 @@
-#include "food2.h"
+#include "food.h"
 #define LENGTH 30
 #define WIDTH 30
 

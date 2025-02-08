@@ -2,8 +2,8 @@
 #include<conio.h>
 #include<ctime>
 #include<windows.h>
-#include "snake2.cpp"
-#include "food2.cpp"
+#include "snake.cpp"
+#include "food.cpp"
 using namespace std;
 
 #define LENGTH 30
